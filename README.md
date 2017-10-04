@@ -1,4 +1,4 @@
-# `protractor-assignment` — the seed for AngularJS apps
+# `protractor-assignment` — the seed for protractor test app.
 
 This project is a demo application to use protractor for automated test angular App.
 
@@ -8,6 +8,7 @@ The seed app doesn't do much, just shows demonstration of protractor to evaluate
 ## Getting Started
 
 npm install
+
 npm run protractor
 
 
